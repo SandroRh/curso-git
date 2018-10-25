@@ -8,8 +8,8 @@ namespace Teste
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo");
-            Console.WriteLine("Bom dia");
             Console.WriteLine("Como você está hoje?");
+            Console.WriteLine("Bom dia!");
 
             Console.ReadLine();
         }
